@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Live--Site-Visit--Now-green?style=flat-square&logo=vercel)](https://explore-trip.onrender.com/listings)
 
-> A tourism directory web application to discover iconic historical places in Karnataka — built as a **social service for the people of Karnataka**.
+> A tourism directory web application to discover iconic historical places in Karnataka - built as a **social service for the people of Karnataka**.
 
 ---
 
@@ -57,8 +57,10 @@ Hosted on Render — accessible 24x7 for tourists and locals!
 **Mujeeb Khan**  
 Feel free to connect for feedback or improvements!
 
+mujeebkhan3771@gmail.com
 ---
 
 ## 📜 License
 
 This project is open-source and free to use for non-commercial purposes.
+
